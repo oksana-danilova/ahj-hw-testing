@@ -1,3 +1,6 @@
+// eslint-disable-next-line no-redeclare
+/*global MouseEvent*/
+
 import paySystems from "../js/pay-systems";
 import { CardValidatorWidget } from "../js/widget";
 

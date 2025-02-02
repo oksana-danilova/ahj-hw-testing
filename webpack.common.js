@@ -9,6 +9,7 @@ module.exports = {
     publicPath: "",
   },
   module: {
+    testTimeout: 30000, // Установите здесь необходимое общее время таймаута
     rules: [
       {
         test: /\.js$/,
